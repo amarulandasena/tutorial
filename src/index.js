@@ -1,4 +1,4 @@
-const fn = () {
+const fn = () => {
     const miString = "!Soy un String muy feliz"
     let b = miString + "en esta vida."
     console.log(b)
