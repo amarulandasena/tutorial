@@ -1,13 +1,16 @@
-const fn = () => {
-    const miString = "!Soy un String muy feliz"
-    let b = miString + "en esta vida."
-    console.log(b)
-}
+// Tutorial de introducción para VS code.
 
-fn()
+const fn = () => {
+  const miString = "!Soy un String muy feliz";
+  let b = miString + "en esta vida.";
+  console.log(b);
+  console.log("Hola Mundo");
+};
+
+fn();
 
 const clickeado = () => {
-    let a = "Amo la programción."
+  let a = "Amo la programación.";
 
-    console.log(a)
-}
+  console.log(a);
+};
