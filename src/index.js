@@ -9,8 +9,4 @@ const fn = () => {
 
 fn();
 
-const clickeado = () => {
-  let a = "Amo la programación.";
 
-  console.log(a);
-};
