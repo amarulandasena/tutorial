@@ -9,4 +9,10 @@ const fn = () => {
 
 fn();
 
+const clickeado = () => {
+      var numero = prompt("Ingrese un número: ");
+      if (numero == 1){
+          alert("Hola Mundo");
+      };
+};
 
